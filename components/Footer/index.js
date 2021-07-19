@@ -11,7 +11,7 @@ const Footer = () => {
           href='http://www.google.com'
           target='blank'
         > */}
-        <span className='text-lg'> Robson Silveira - Dev</span>
+        <span className='text-lg'> Robson Silveira - Desenvolvedor de sistemas</span>
         {/* </a>{" "} */} |{" "}
         <a
           className='hover:underline text-blue-500 text-lg'
